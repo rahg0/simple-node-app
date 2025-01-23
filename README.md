@@ -1,2 +1,2 @@
 # simple-node-app
-Uses colors and to-upper npm packages
+Uses **colors** and **to-upper** npm packages.
